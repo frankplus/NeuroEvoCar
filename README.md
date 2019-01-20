@@ -7,7 +7,7 @@ and what this project is all about:
 http://www.frankinfotech.it/2017/07/20/tesina-di-maturita/
 
 ## Installation
-Just execute .jar file or import the project in Netbeans and compile 
+Import the gradle project and run src/main/java/guiAnimazione/MainClass.java
 
 ## Further documentation
 For other informations about NEAT and JNEAT: 
