@@ -17,3 +17,5 @@ For other informations about NEAT and JNEAT:
 
 ## Questions?
 Join us in #frankit on Freenode
+
+![alt text](https://github.com/frankplus/NeuroEvoCar/blob/master/Screenshot.png "Screenshot")
